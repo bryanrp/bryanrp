@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm brico</h1>
-<h3 align="center">A web developer who can only build silly apps</h3>
+<h3 align="center">A web developer who build fun apps</h3>
 
-- 🔭 I’m currently working on **[my personal web](https://www.bricoo.dev)**
-
-- 🌱 I’m currently learning **any web related tools**
+- 🌱 I’m currently learning **Go for backend**
 
 - 👯 I’m looking to collaborate on **any web related application, especially on the backend**
 
-- 👨‍💻 All of my projects are available at **[bricoo.dev](https://www.bricoo.dev)**
+- 👨‍💻 My personal projects are available at **[brico.dev](https://www.brico.dev)**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanrp&theme=material-palenight" alt="bryanrp" />
